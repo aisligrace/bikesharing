@@ -10,6 +10,8 @@ Module 14
 
 ![image](https://github.com/aisligrace/bikesharing/blob/main/Screen%20Shot%202022-04-02%20at%2012.44.50%20PM.png)
 
+![image](https://github.com/aisligrace/bikesharing/blob/main/Screen%20Shot%202022-04-02%20at%2012.55.48%20PM.png)
+
 ![image](https://github.com/aisligrace/bikesharing/blob/main/Screen%20Shot%202022-04-02%20at%2012.49.19%20PM.png)
 
 ## Deliverable 3
