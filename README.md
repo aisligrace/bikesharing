@@ -22,6 +22,7 @@ There were over 2.3 million Citi Bike Rides and over 1.5 million of them were ma
 ![image](https://github.com/aisligrace/bikesharing/blob/main/Screen%20Shot%202022-04-03%20at%2011.38.46%20AM.png)
 
 Along with having more male than female customers, we also found that many riders are using Citi Bike for their commute to work, based on the time of day they are riding.
+
 ![image](https://github.com/aisligrace/bikesharing/blob/main/Screen%20Shot%202022-04-03%20at%2011.40.48%20AM.png)
 
 We believe Citi Bike should invest in a marketing campaign geared for women, showing how easy it is to take Citi Bike for their own work commutes, errands, social events, etc
