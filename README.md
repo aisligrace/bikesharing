@@ -17,6 +17,8 @@ Module 14
 ## Deliverable 3
 
 # Results and Analysis
+Tableau Dashboard:
+[link to dashboard](https://public.tableau.com/app/profile/alexandra.g.mcfarland/viz/Module14CitbikeChallenge/Module14ChallengeDeliverable3)
 
 There were over 2.3 million Citi Bike Rides and over 1.5 million of them were male. 
 ![image](https://github.com/aisligrace/bikesharing/blob/main/Screen%20Shot%202022-04-03%20at%2011.38.46%20AM.png)
